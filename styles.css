@@ -1,28 +1,46 @@
-body,
-p,
-#main,
-#canvas,
-#letter,
-#clock-box {
+/* ===========================
+   CSS Variables (Theme)
+   =========================== */
+:root {
+  /* Colors */
+  --bg-color: #ffe;
+  --text-color: #228567;
+  --name-color: #000;
+  --date-color: #808080;
+}
+
+/* ===========================
+   Global Styles
+   =========================== */
+* {
   margin: 0;
   padding: 0;
+  box-sizing: border-box;
 }
 
 body {
-  background: #ffe;
-  font: 14px/1.4 "微软雅黑", "宋体", sans-serif;
+  background: var(--bg-color);
+  font: 14px/1.4 sans-serif;
+  overflow: hidden;
 }
 
-#main,
+/* ===========================
+   Main Canvas Container
+   =========================== */
+#main {
+  position: relative;
+  width: 1100px;
+  height: 680px;
+}
+
 #canvas {
   width: 1100px;
   height: 680px;
 }
 
-#main {
-  position: relative;
-}
-
+/* ===========================
+   Love Letter Content
+   =========================== */
 #letter {
   position: absolute;
   width: 400px;
@@ -31,9 +49,12 @@ body {
   top: 80px;
   display: none;
   font-size: 16px;
-  color: #228567;
+  color: var(--text-color);
 }
 
+/* ===========================
+   Time Counter Display
+   =========================== */
 #clock-box {
   position: absolute;
   left: 60px;
@@ -44,11 +65,11 @@ body {
 }
 
 #clock-text {
-  color: gray;
+  color: var(--date-color);
 }
 
-.name {
-  color: black;
+#clock-text .name {
+  color: var(--name-color);
 }
 
 #clock {
