@@ -14,25 +14,14 @@ const CONFIG = {
   // Love letter content
   letter: {
     paragraph1: [
-      '哪天我老了，还跟和你热恋一样，',
-      '桌前给你发消息，',
-      '灯盏微黄，窗外风雨千墙，',
-      '半天酿出一句我想你了，',
-      '内心的原野，',
-      '时而流星追月，时而万马奔腾。'
+      'Happy first monthsarry, mahal ko! Grabe ang bilis ng panahon, parang kahapon lang nung hindi mo me pinapansin baby sa hindi ko malamang dahilan, but its just you being sealost palaa, but screw that. I am your girlfriend, and you are mine now, babyy ko!'
     ],
     paragraph2: [
-      '有时有月亮，',
-      '我就做一个九曲十八弯的梦，',
-      '每个转角都与你有关，',
-      '你对我笑了一下，',
-      '醒来我就发上一天呆。'
+      'I just want you to know that you are soo special to me, thank you for being you, and making my days more brighter by just being with me. I loveee you more than you know, mahal ko. I just want you to know how I am grateful to have someone as special as you, and you are the only one for me, so please stop doubting yourself and overthinking things, but even if you do, I will always be right here assuring you — we will always be together facing those doubts, and storms. I will never leave you — as much as you want me to stay.'
     ],
     paragraph3: [
-      '现在我在长满星星的夜里，',
-      '阶前红豆坠满枝，',
-      '醉过知酒浓，',
-      '无物抵相思。'
+      'I am sorry we cannot celebrate our first monthsarry together mahal ko, as much as I want to, you already know the reason. Just know that I am grateful that I have such an understanding partner like you. More monthsarry, dates, headaches, and problems to come, babyy! I will always be here, I loveee youuu so muchieee!!
+'
     ]
   },
   
