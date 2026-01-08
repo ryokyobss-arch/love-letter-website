@@ -2,8 +2,8 @@
 const CONFIG = {
   // Couple information
   couple: {
-    name1: 'Kim Hannah Eloisa Anne Manalo',
-    name2: 'Shulammite Parousia Bueno',
+    name1: 'Khea',
+    name2: 'Sia',
     connector: 'and',
     together: 'together'
   },
@@ -38,11 +38,11 @@ const CONFIG = {
   
   // Time display text
   time: {
-    prefix: '第 ',
-    day: '天',
-    hour: '小时',
-    minute: '分钟',
-    second: '秒'
+    prefix: 'together ',
+    day: 'day',
+    hour: 'hour',
+    minute: 'minute',
+    second: 'second'
   },
   
   // Text on seed heart
