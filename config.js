@@ -2,14 +2,14 @@
 const CONFIG = {
   // Couple information
   couple: {
-    name1: 'Ms.Wang',
-    name2: 'Mr.Qi',
-    connector: '和',
-    together: '在一起'
+    name1: 'Kim Hannah Eloisa Anne Manalo',
+    name2: 'Shulammite Parousia Bueno',
+    connector: 'and',
+    together: 'together'
   },
   
   // Memorial date
-  memorialDate: '2017-12-25T00:00:00',
+  memorialDate: '2025-12-09T00:00:00',
   
   // Love letter content
   letter: {
@@ -46,6 +46,6 @@ const CONFIG = {
   },
   
   // Text on seed heart
-  seedText: 'Miss You'
+  seedText: 'Happy 1st Monthsarry, baby~'
 };
 
